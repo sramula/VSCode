@@ -1,0 +1,1 @@
+Redame soubor nového git repo.
