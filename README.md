@@ -1,1 +1,1 @@
-Redame soubor nového git repo.
+Readme soubor nového git repozitáře.
