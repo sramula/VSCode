@@ -1,1 +1,1 @@
-Readme soubor nového git repozitáře.
+Readme soubor nového git repozitáře. Změna na hubu.
